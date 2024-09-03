@@ -1,0 +1,15 @@
+<Project>
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <BaseOutputPath>$(SolutionDir)\Bin</BaseOutputPath>
+    <BaseIntermediateOutputPath>$(SolutionDir)\Obj</BaseIntermediateOutputPath>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Company>AccessMind LLC</Company>
+    <Copyright>Copyright © 2024 AccessMind LLC. All rights reserved.</Copyright>
+    <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>  </PropertyGroup>
+</Project>
